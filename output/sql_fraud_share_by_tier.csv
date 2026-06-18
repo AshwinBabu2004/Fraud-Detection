@@ -1,0 +1,5 @@
+Risk_Tier,fraud_count,pct_of_all_fraud
+Medium,225,45.7
+High,134,27.2
+Low,125,25.4
+Critical,8,1.6

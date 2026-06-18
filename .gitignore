@@ -1,0 +1,6 @@
+venv/
+data/creditcard.csv
+output/transactions_scored.csv
+__pycache__/
+.DS_Store
+*.pyc

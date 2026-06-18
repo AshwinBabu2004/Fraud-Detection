@@ -1,0 +1,5 @@
+Risk_Tier,total_transactions,fraud_count,total_exposure,avg_amount,fraud_rate_pct
+High,20970,134,9946178.96,474.31,0.639
+Low,143023,125,8343002.35,58.33,0.087
+Medium,120068,225,6461886.62,53.82,0.187
+Critical,746,8,411522.08,551.64,1.072
